@@ -11,7 +11,7 @@ Les données à notre disposition étaient six caractéristiques (hauteur, large
 
 La stratégie mise en place a été de comparer deux méthodes de prédictions pour conserver la plus performante:
 - Un algorithme de classification non-supervisée : la méthode K-means
-- Un algoritme de classification supervisée : une régression logistique
+- Un algorithme de classification supervisée : une régression logistique
 
 Après avoir testé notre modèle sur notre échantillon des 1500 billets, nous constations que la méthode K-means permettait une prédiction correcte dans 98.53 % des cas, tandis que la régression logistique permettait une prédiction correcte dans 99.2 %, et fut donc retenu pour notre client. 
 
