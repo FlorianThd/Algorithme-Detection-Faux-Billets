@@ -1,7 +1,7 @@
-# Algorithme-DetectionFauxBillets
+# Création d'un algorithme de détection de faux billets
 
-Projet fictif de fin d'études réalisé en juin 2023 dans le cadre de la formation diplomante "Data Analyst".
-Mots clés : Machine Learning, prédictions, K-means, Régression logistique, régression linéaire.
+Projet de fin d'études réalisé en juin 2023 dans le cadre de la formation diplômante "Data Analyst".<br>
+Mots clés : Machine Learning, prédictions, K-means, régression logistique, régression linéaire.
 
 Le projet en quelques mots :
 Notre mission était ici de concevoir en moins d'un mois un algorithme de détection de faux billets.
