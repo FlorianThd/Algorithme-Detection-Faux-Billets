@@ -9,7 +9,7 @@ Notre mission était ici de concevoir un algorithme de détection de faux billet
 
 Pour pouvoir construire et entraîner notre algorithme, nous avions à notre disposition les caractéristiques de 1500 billets, 500 faux et 1000 vrais.
 
-La stratégie mise en place a été de comparer deux méthodes de prédictions, pour ensuite choisir celle qui donnerait les meilleurs résultats (c'est à dire celle qui donnerait le moins de faux positifs et de faux négatifs).
+La stratégie mise en place a été de comparer deux méthodes de prédictions, pour ensuite choisir celle qui donnerait les meilleurs résultats (celle qui donnerait le moins de faux positifs et de faux négatifs).
 
 Les méthodes utilisées sont les suivantes :
 
