@@ -1,20 +1,23 @@
-# Création d'un algorithme de détection de faux billets
+Création d'un algorithme de détection de faux billets 💸
 
-Projet de fin d'études réalisé en juin 2023 dans le cadre de la formation diplômante "Data Analyst".<br>
-Mots clés : Machine Learning, prédictions, K-means, régression logistique, régression linéaire.
+👨‍🎓 Projet de fin d'études réalisé en juin 2023 dans le cadre de la formation diplômante "Data Analyst".
+🛠 Mots clés : Machine Learning, prédictions, K-means, régression logistique, régression linéaire.
 
 Le projet en quelques mots :
-Notre mission était ici de concevoir en moins d'un mois un algorithme de détection de faux billets.
-L'utilisateur final devait pouvoir renseigner les caractéristiques d'un billet de banque, et l'algoritme devait être capable de déterminer si celui-ci était vrai, ou faux.
 
-Les données à notre disposition étaient six caractéristiques (hauteur, largeur, diagonale, etc) de 1500 billets, 500 faux et 1000 vrais.
+Notre mission était ici de concevoir un algorithme de détection de faux billets pour une institution publique fictive garante de l'intégrité de la monnaie en circulation. À partir de six caractéristiques d'un billet de banque (hauteur, largeur, longueur de la diagonale, etc), l'algorithme devait pouvoir déterminer si celui-ci était vrai ou faux.
 
-La stratégie mise en place a été de comparer deux méthodes de prédictions pour conserver la plus performante:
-- Un algorithme de classification non-supervisée : la méthode K-means
-- Un algorithme de classification supervisée : une régression logistique
+Pour pouvoir construire et entraîner notre algorithme, nous avions à notre disposition les caractéristiques de 1500 billets, 500 faux et 1000 vrais.
 
-Après avoir testé notre modèle sur notre échantillon des 1500 billets, nous constations que la méthode K-means permettait une prédiction correcte dans 98.53 % des cas, tandis que la régression logistique permettait une prédiction correcte dans 99.2 %, et fut donc retenu pour notre client. 
+La stratégie mise en place a été de comparer deux méthodes de prédictions, pour ensuite choisir celle qui donnerait les meilleurs résultats (c'est à dire celle qui donnerait le moins de faux positifs et de faux négatifs).
 
+Les méthodes utilisées sont les suivantes :
 
-N'hésitez pas si vous souhaitez plus de précisions !
+    Un algorithme de classification non-supervisée : la méthode K-means
+    Un algorithme de classification supervisée : une régression logistique
+
+Après avoir testé nos modèles sur notre échantillon de 1500 billets, nous constations que la méthode K-means permettait une prédiction correcte (un billet prédit comme étant vrai est-il réellement vrai ? Un billet prédit faux réellement faux ?) dans 98.53 % des cas, tandis que la régression logistique permettait une prédiction correcte dans 99.2 %, et fut donc retenu pour notre client.
+
+👋 Merci de votre lecture !
+✏️ N'hésitez pas à me contacter si vous souhaitez plus de précisions à FlorianData@pm.me
 
