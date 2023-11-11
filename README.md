@@ -19,5 +19,5 @@ Les méthodes utilisées sont les suivantes :
 Après avoir testé nos modèles sur notre échantillon de 1500 billets, nous constations que la méthode K-means permettait une prédiction correcte (un billet prédit comme étant vrai est-il réellement vrai ? Un billet prédit faux réellement faux ?) dans 98.53 % des cas, tandis que la régression logistique permettait une prédiction correcte dans 99.2 %, et fut donc retenu pour notre client.
 
 👋 Merci de votre lecture !<br>
-✏️ N'hésitez pas à me contacter si vous avez des remarques ou des questions à FlorianData@pm.me
+✏️ N'hésitez pas à me contacter si vous avez des remarques ou questions à FlorianData@pm.me
 
