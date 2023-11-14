@@ -1,6 +1,6 @@
 # Création d'un algorithme de détection de faux billets 💸
 
-👨‍🎓 Projet de fin d'études réalisé en juin 2023 dans le cadre de la formation diplômante "Data Analyst".
+👨‍🎓 Projet de fin d'études réalisé en juin 2023 dans le cadre de la formation diplômante "Data Analyst" d'OpenClassRooms.
 <br />🛠 Mots clés : **Machine Learning, prédictions, K-means, régression logistique, régression linéaire.**
 
 ---
