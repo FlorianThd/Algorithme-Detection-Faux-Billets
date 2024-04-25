@@ -23,5 +23,5 @@ Après avoir testé nos modèles sur notre échantillon de 1500 billets, nous co
 ---
 
 👋 Merci de votre lecture !<br>
-✏️ N'hésitez pas à me contacter si vous avez des remarques ou questions à FlorianData@pm.me
+✏️ N'hésitez pas à me contacter si vous avez des remarques ou questions via [mon Linkedin](https://www.linkedin.com/in/florian-thouraud)
 
