@@ -24,7 +24,7 @@ Après avoir testé nos modèles sur notre échantillon de 1500 billets, nous co
 
 <br/>
 
-➡️ Rendez-vous ici pour découvrir le [notebook du projet](https://github.com/FlorianThd/Algorithme-Detection-Faux-Billets-en-Python) <br>
+➡️ Rendez-vous ici pour découvrir le [notebook du projet](https://github.com/FlorianThd/Algorithme-Detection-Faux-Billets-en-Python/blob/main/Notebook%20D%C3%A9tection%20Faux%20Billets.ipynb) <br>
 ✏️ N'hésitez pas à me contacter si vous avez des remarques ou questions via [mon Linkedin](https://www.linkedin.com/in/florian-thouraud)
 
 
@@ -57,5 +57,5 @@ The methods used were as follows:
 After testing our models on our sample of 1,500 notes, we found that the K-means method provided a correct prediction (is a note predicted to be true really true? Is a note predicted to be false really false?) in 98.53% of cases, while logistic regression provided a correct prediction in 99.2% of cases, and was therefore selected for our client.
 <br></br>
 <br>
-➡️ Access to the notebook of the project [here](https://github.com/FlorianThd/Algorithme-Detection-Faux-Billets-en-Python).<br>
+➡️ Access to the notebook of the project [here](https://github.com/FlorianThd/Algorithme-Detection-Faux-Billets-en-Python/blob/main/Notebook%20D%C3%A9tection%20Faux%20Billets.ipynb).<br>
 ✏️ Please do not hesitate to contact me if you have any comments or questions via [my Linkedin](https://www.linkedin.com/in/florian-thouraud)
