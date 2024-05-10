@@ -1,6 +1,6 @@
 # Création d'un algorithme de détection de faux billets 💸
 
-🇬🇧 See below for the English version 🇬🇧
+### English version below
 
 👨‍🎓 Projet de fin d'études réalisé en juin 2023 dans le cadre de la formation diplômante "Data Analyst" d'OpenClassRooms.
 <br>🛠 Mots clés : **Machine Learning, prédictions, K-means, régression logistique, régression linéaire.**
@@ -31,13 +31,13 @@ Après avoir testé nos modèles sur notre échantillon de 1500 billets, nous co
 <br/><br/>
 
 
-## 🇬🇧 English version 🇬🇧
+## English version 
 
 <br />
 👨‍🎓 This was part of an end-of-studies project carried out in June 2023 as part of the OpenClassRooms "Data Analyst" diploma course.
-<br> 🛠 Key-words : **Machine Learning, prédictions, K-means, régression logistique, régression linéaire.**
+<br> 🛠 Key-words : Machine Learning, predictions, K-means, logistic regression, linear regression
 
-<br>
+
 <br>
 <br>
 
