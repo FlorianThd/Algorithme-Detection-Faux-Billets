@@ -35,7 +35,7 @@ Après avoir testé nos modèles sur notre échantillon de 1500 billets, nous co
 
 <br />
 👨‍🎓 This was part of an end-of-studies project carried out in June 2023 as part of the OpenClassRooms "Data Analyst" diploma course.
-<br> 🛠 Key-words : Machine Learning, predictions, K-means, logistic regression, linear regression
+<br> 🛠 Key-words : Machine Learning, predictions, K-means, logistic regression, linear regression.
 
 
 <br>
